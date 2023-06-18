@@ -1,0 +1,12 @@
+C:\Users\ali.goren\Desktop\Side Projects\FlightExample\FlightSearch.Core\bin\Debug\net7.0\FlightSearch.Core.deps.json
+C:\Users\ali.goren\Desktop\Side Projects\FlightExample\FlightSearch.Core\bin\Debug\net7.0\FlightSearch.Core.dll
+C:\Users\ali.goren\Desktop\Side Projects\FlightExample\FlightSearch.Core\bin\Debug\net7.0\FlightSearch.Core.pdb
+C:\Users\ali.goren\Desktop\Side Projects\FlightExample\FlightSearch.Core\obj\Debug\net7.0\FlightSearch.Core.csproj.AssemblyReference.cache
+C:\Users\ali.goren\Desktop\Side Projects\FlightExample\FlightSearch.Core\obj\Debug\net7.0\FlightSearch.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ali.goren\Desktop\Side Projects\FlightExample\FlightSearch.Core\obj\Debug\net7.0\FlightSearch.Core.AssemblyInfoInputs.cache
+C:\Users\ali.goren\Desktop\Side Projects\FlightExample\FlightSearch.Core\obj\Debug\net7.0\FlightSearch.Core.AssemblyInfo.cs
+C:\Users\ali.goren\Desktop\Side Projects\FlightExample\FlightSearch.Core\obj\Debug\net7.0\FlightSearch.Core.csproj.CoreCompileInputs.cache
+C:\Users\ali.goren\Desktop\Side Projects\FlightExample\FlightSearch.Core\obj\Debug\net7.0\FlightSearch.Core.dll
+C:\Users\ali.goren\Desktop\Side Projects\FlightExample\FlightSearch.Core\obj\Debug\net7.0\refint\FlightSearch.Core.dll
+C:\Users\ali.goren\Desktop\Side Projects\FlightExample\FlightSearch.Core\obj\Debug\net7.0\FlightSearch.Core.pdb
+C:\Users\ali.goren\Desktop\Side Projects\FlightExample\FlightSearch.Core\obj\Debug\net7.0\ref\FlightSearch.Core.dll

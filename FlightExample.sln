@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlightExample", "FlightExample\FlightExample.csproj", "{54BD7701-5616-407E-B350-C8216594182A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlightSearch.Core", "FlightSearch.Core\FlightSearch.Core.csproj", "{5F45EF29-F83B-4185-95A3-B621B5730639}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54BD7701-5616-407E-B350-C8216594182A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54BD7701-5616-407E-B350-C8216594182A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54BD7701-5616-407E-B350-C8216594182A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54BD7701-5616-407E-B350-C8216594182A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F45EF29-F83B-4185-95A3-B621B5730639}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F45EF29-F83B-4185-95A3-B621B5730639}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F45EF29-F83B-4185-95A3-B621B5730639}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F45EF29-F83B-4185-95A3-B621B5730639}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
